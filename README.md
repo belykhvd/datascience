@@ -1,6 +1,12 @@
 # datascience
 Data Science Learning and Projects
 
+# Machine Learning
+1. https://www.coursera.org/learn/machine-learning
+
+# Graph Viz
+1. https://gephi.org/
+
 # R
 1. https://stepik.org/course/129
 
